@@ -6,7 +6,7 @@
 </p>
 <br><br>
 
-**Note: this plugin is continuous work from FlutterBlue since maintenance stopped.**
+**Note: this plugin is continuous work from [FlutterBlue](https://github.com/pauldemarco/flutter_blue) since maintenance stopped.**
 
 ## Contents
 
@@ -49,7 +49,7 @@ Please star this repo & on [pub.dev](https://pub.dev/packages/flutter_blue_plus)
 
 ## Usage
 
-### Error Handling :fire:
+### :fire: Error Handling :fire:
 
 Flutter Blue Plus takes error handling very seriously. 
 
